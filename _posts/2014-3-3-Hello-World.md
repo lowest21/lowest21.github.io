@@ -1,8 +1,8 @@
 ---
 layout: post
-title: You're up and running! My first try at this and it's working a bit!
+title: You're up and running! 
 ---
-
+My first try at this and it's working a bit!
 It's not easy to sort this out, my little brain hurts!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
